@@ -15,4 +15,4 @@ My name is Sondre and I'm an aspiring developer based in Oslo.
   - Java
   - LISP / Scheme (R5RS)
   - LaTeX 
-- 📫 How to reach me: [sosttal@outlook.com](mailto:sosttal@outlook.com
+- 📫 How to reach me: [sosttal@outlook.com](mailto:sosttal@outlook.com)

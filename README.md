@@ -3,7 +3,7 @@
 My name is Sondre and I'm an aspiring developer based in Oslo.
 
 - 📖 My educational background includes:
-	- Craft degree in Computer electronics
+	- Trade certificate in Computer Electronics
 	- BA degree in Linguistics with a 40-credit group (minor) in Rhetoric, Language and Communication
 - 🔭 I’m currently on my final year of a bachelor's degree in Informatics (Language Technology) from the University of Oslo
 - 🌱 I’m currently learning about:
@@ -14,5 +14,6 @@ My name is Sondre and I'm an aspiring developer based in Oslo.
   - Python
   - Java
   - LISP / Scheme (R5RS)
+  - SQL (Postgres)
   - LaTeX 
 - 📫 How to reach me: [sosttal@outlook.com](mailto:sosttal@outlook.com)

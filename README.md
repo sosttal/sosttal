@@ -1,19 +1,18 @@
 ## Hi there 👋🤓
 
-My name is Sondre and I'm an aspiring developer based in Oslo.
-
-- 📖 My educational background includes:
+- Name: Sondre
+- 📫 How to reach me: [sosttal@outlook.com](mailto:sosttal@outlook.com)
+- 📖 Education:
 	- Trade certificate in Computer Electronics
 	- BA degree in Linguistics with a 40-credit group (minor) in Rhetoric, Language and Communication
-- 🔭 I’m currently on my final year of a bachelor's degree in Informatics (Language Technology) from the University of Oslo
-- 🌱 I’m currently learning about:
-	- Algorithms and data structures
-	- Functional programming
-	- Databases and data modelling
+	- 🔭 Currently on my final year of a bachelor's degree in Informatics (Language Technology) from the University of Oslo
+- 🌱 Currently learning about:
+	- 🤖 AI and machine learning
+	- 📑 NLP-methods
+	- 🧪 Testing in software development
 - 🧑‍💻 I'm familiar with:
   - Python
   - Java
-  - LISP / Scheme (R5RS)
+  - LISP (Scheme)
   - SQL (Postgres)
   - LaTeX 
-- 📫 How to reach me: [sosttal@outlook.com](mailto:sosttal@outlook.com)
